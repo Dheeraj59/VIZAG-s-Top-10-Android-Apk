@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vizag\'s 10</string>
+    <string name="places_category">PLACES</string>
+    <string name="shopping_category">SHOPPING SPOTS</string>
+    <string name="restaurant_category">RESTAURANTS</string>
+    <string name="movie_halls_category">MOVIE HALLS</string>
+    <string name="hotels_category">HOTELS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
